@@ -1,2 +1,2 @@
 npm i node@16
-node .
+node .npm i
